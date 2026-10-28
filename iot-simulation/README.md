@@ -27,3 +27,9 @@ The IoT simulation operates independently of the machine learning notebook. The 
 - Wokwi
 - Arduino/C++
 fdfffffffffffffffff- ESP32
+
+## Run the Simulation
+
+Explore the ESP32 smart irrigation system simulation on Wokwi:
+
+[Open the Smart Irrigation Simulation](https://wokwi.com/projects/417614421166633985)
