@@ -1,6 +1,5 @@
 {
   "version": 1,
-  "author": "LING JIE WEI",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-breadboard-half", "id": "bb1", "top": 25.8, "left": -342.8, "attrs": {} },
